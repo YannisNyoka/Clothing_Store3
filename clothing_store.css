@@ -268,3 +268,147 @@ input {
     background-color: lightgray;
     color: rgb(0, 0, 0);
 }
+footer{
+    color:black;
+    background-color: lightgray;
+}
+form{
+    width: 30%;
+    border: 2px solid black;
+
+}
+.button-footer{
+    padding: 12px;
+    width:100%;
+    color: white;
+    background-color: black;
+}
+
+/* li:hover {
+    background-color: rgb(117, 117, 117);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+li {
+    color: rgb(117, 117, 117);
+    padding: 10.6px 19px;
+}
+.w3-light-grey {
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+}
+.w3-padding-64 {
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+}
+.w3-center {
+    text-align: center !important;
+}
+.w3-small {
+    font-size: 12px !important;
+}
+footer{
+    display: block;
+}
+.w3-row-padding{
+    padding:0 8px;
+}
+.w3-row-padding>.w3-col {
+    padding: 0 8px;
+}
+.w3-col.s4 {
+    width: 33.33333%;
+}
+.w3-col {
+    float: left;
+    width: 100%;
+}
+h4, h5, h6 {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+h4 {
+    font-size: 20px;
+}
+.w3-border {
+    border: 1px solid #ccc !important;
+}
+.w3-input {
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+input {
+    font: inherit;
+    margin: 0;
+}
+.w3-black {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+.w3-hover-black:hover {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+
+.w3-block {
+    display: block;
+    width: 100%;
+}
+
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+button {
+    font: inherit;
+    margin: 0;
+    text-transform: none;
+}
+a{
+    color: inherit;
+    background-color: transparent;
+}
+.w3-justify {
+    text-align: justify !important;
+}
+
+.fa-fw {
+    width: 1.28571429em;
+    text-align: center;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.w3-large {
+    font-size: 18px !important;
+}
+.w3-hover-opacity:hover {
+    opacity: 0.60;
+}
+.w3-opacity {
+    opacity: 0.60;
+}
+.w3-padding-24 {
+    padding-top: 24px !important;
+    padding-bottom: 24px !important;
+} */
